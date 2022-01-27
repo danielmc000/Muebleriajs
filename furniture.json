@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Sillón",
+        "category" : "Silla",
+        "price" : "20.000",
+        "imgSrc" : "images/armchair.png"
+    },
+    {
+        "name" : "Cama",
+        "category" : "Cama",
+        "price" : "102.000",
+        "imgSrc" : "images/bed.png"
+    },
+    {
+        "name" : "Mesa de Trabajo",
+        "category" : "Mesa de trabajo",
+        "price" : "150.000",
+        "imgSrc" : "images/bench.png"
+    },
+    {
+        "name" : "Litera",
+        "category" : "Cama",
+        "price" : "70.000",
+        "imgSrc" : "images/bunk-bed.png"
+    },
+    {
+        "name" : "Gabinete",
+        "category" : "gabinet",
+        "price" : "50.000",
+        "imgSrc" : "images/cabinet.png"
+    },
+    {
+        "name" : "Mesa de cartas",
+        "category" : "Mesa",
+        "price" : "200.000",
+        "imgSrc" : "images/card-table.png"
+    },
+    {
+        "name" : "Cojin",
+        "category" : "Cojin",
+        "price" : "10.000",
+        "imgSrc" : "images/cushion.png"
+    },
+    {
+        "name" : "Escritorio",
+        "category" : "Escritorio",
+        "price" : "25.000",
+        "imgSrc" : "images/desk.png"
+    },
+    {
+        "name" : "Cajón",
+        "category" : "Cajón",
+        "price" : "49.000",
+        "imgSrc" : "images/drawer.png"
+    },
+    {
+        "name" : "Silla de Oficina",
+        "category" : "Silla",
+        "price" : "60.990",
+        "imgSrc" : "images/office-chair.png"
+    },
+    {
+        "name" : "Silla de Terraza",
+        "category" : "Silla",
+        "price" : "69.200",
+        "imgSrc" : "images/scissors-chair.png"
+    },
+    {
+        "name" : "Sofa",
+        "category" : "Sofa",
+        "price" : "224.990",
+        "imgSrc" : "images/sleeper-sofa.png"
+    },
+    {
+        "name" : "Cama",
+        "category" : "Cama",
+        "price" : "90.250",
+        "imgSrc" : "images/sleigh-bed.png"
+    },
+    {
+        "name" : "Sofa cama",
+        "category" : "cama",
+        "price" : "99.990",
+        "imgSrc" : "images/sofa-bed.png"
+    },
+    {
+        "name" : "Sillon Blanco",
+        "category" : "Silla",
+        "price" : "75.800",
+        "imgSrc" : "images/white-armchair.png"
+    },
+    {
+        "name" : "Sofa Blanco",
+        "category" : "Sofa",
+        "price" : "159.000",
+        "imgSrc" : "images/white-sofa.png"
+    },
+    {
+        "name" : "Sillon",
+        "category" : "Sillon",
+        "price" : "100.500",
+        "imgSrc" : "images/wing-chair.png"
+    },
+    {
+        "name" : "Sillon de madera",
+        "category" : "Sillon",
+        "price" : "187.450",
+        "imgSrc" : "images/wooden-armchair.png"
+    },
+    {
+        "name" : "mesa de comedor de madera",
+        "category" : "Mesa",
+        "price" : "322.500",
+        "imgSrc" : "images/wooden-dining-table.png"
+    },
+    {
+        "name" : "Mesa de madera",
+        "category" : "Mesa",
+        "price" : "288.990",
+        "imgSrc" : "images/wooden-table.png"
+    }
+]
